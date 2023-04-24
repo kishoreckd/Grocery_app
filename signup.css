@@ -150,3 +150,13 @@ input:invalid{
     position: relative;
     left: -36px;
 }
+
+.show{
+    display: block;
+}
+span.passwordiconsee {
+    position: absolute;
+    left: 543px;
+    top: 357px;
+    display: none;
+}
